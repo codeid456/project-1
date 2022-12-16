@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.containerone {
+    background-color: rgb(231, 21, 21);
+}
+
+.clearfix {
+    clear: both;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu a {
+    display: inline-block;
+    color: aliceblue;
+    height: 20px;
+    width: 50px;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: black;
+}
+
+.menu h1 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.menu p {
+    margin-top: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.menu button {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.menu button:hover {
+    color: black;
+    background-color: white;
+}
+
+
+/* closed */
+
+.containertwo {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.allitems {
+    width: 700px;
+    margin: 60px auto;
+}
+
+.image1 {
+    float: right;
+    clear: both;
+}
+
+.head1 {
+    width: 550px;
+}
+
+
+/* closed */
+
+.containerthree {
+    font-family: sans-serif;
+    font-size: 14px;
+    background-color: rgb(233, 232, 232);
+    height: 300px;
+}
+
+.allitems2 {
+    width: 700px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+.image2 {
+    float: left;
+}
+
+.head2 {
+    float: right;
+    width: 550px;
+}
+
+
+/* closed */
+
+.footer {
+    padding: 30px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(128, 118, 118);
+}
+
+.contacts {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contacts i {
+    margin: 35px 6px;
+}
+
+.contacts h5 {
+    margin-bottom: 20px;
+}
